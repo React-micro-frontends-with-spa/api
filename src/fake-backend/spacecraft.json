@@ -1,0 +1,198 @@
+[
+  {
+    "fields": {
+      "edited": "2014-12-20T20:58:18.411Z",
+      "title": "Death Star",
+      "armaments": "hypermatter annihilation reactor",
+      "power": "cavernous hypermatter",
+      "propulsion": "imperial hyperdrive",
+      "size": "160 kilometers",
+      "speed": "faster than light"
+    },
+    "model": "resources.spacecraft",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "edited": "2014-12-22T15:03:45.421Z",
+      "title": "Millennium Falcon",
+      "armaments": "dual ion cannons",
+      "power": "ion twin power cells",
+      "propulsion": "plasma thrusters",
+      "size": "34.75 meters",
+      "speed": "sub-light speeds"
+    },
+    "model": "resources.spacecraft",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "edited": "2014-12-25T11:20:55.654Z",
+      "title": "Star Destroyer",
+      "armaments": "quadruple blaster turrets",
+      "power": "solar ionization reactor",
+      "propulsion": "antimatter engines",
+      "size": "1,600 meters",
+      "speed": "light speed"
+    },
+    "model": "resources.spacecraft",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "edited": "2014-12-26T17:53:22.101Z",
+      "title": "TIE Fighter",
+      "armaments": "thermal detonators",
+      "power": "nuclear fission reactor",
+      "propulsion": "warp drives",
+      "size": "6.8 meters",
+      "speed": "time warp capability"
+    },
+    "model": "resources.spacecraft",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "edited": "2014-12-28T23:39:10.829Z",
+      "title": "X-Wing Fighter",
+      "armaments": "electromagnetic pulse guns",
+      "power": "dark energy matrix",
+      "propulsion": "gravity field manipulator",
+      "size": "12.5 meters",
+      "speed": "trans-warp speed"
+    },
+    "model": "resources.spacecraft",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "edited": "2014-12-29T10:45:39.000Z",
+      "title": "Slave I",
+      "armaments": "concealed blaster cannons",
+      "power": "enhanced power core",
+      "propulsion": "advanced hyperdrive booster",
+      "size": "21.5 meters",
+      "speed": "high sub-light speeds"
+    },
+    "model": "resources.spacecraft",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "edited": "2014-12-30T08:22:17.300Z",
+      "title": "Imperial Shuttle",
+      "armaments": "wing-mounted blaster cannons",
+      "power": "heavy-duty power cells",
+      "propulsion": "turbojet engines",
+      "size": "20 meters",
+      "speed": "light speed capable"
+    },
+    "model": "resources.spacecraft",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "edited": "2014-12-31T12:58:18.500Z",
+      "title": "A-Wing",
+      "armaments": "laser autocannons",
+      "power": "micro-fusion reactor",
+      "propulsion": "twin ion engines",
+      "size": "9.6 meters",
+      "speed": "near light speed"
+    },
+    "model": "resources.spacecraft",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "edited": "2015-01-02T14:36:21.900Z",
+      "title": "B-Wing Fighter",
+      "armaments": "ion cannons, proton torpedo launchers",
+      "power": "sublight thruster",
+      "propulsion": "gyroscopic rotating wings",
+      "size": "16.9 meters",
+      "speed": "sub-light speeds"
+    },
+    "model": "resources.spacecraft",
+    "pk": 9
+  },
+  {
+    "fields": {
+      "edited": "2015-01-03T19:22:45.120Z",
+      "title": "Naboo Starfighter",
+      "armaments": "twin laser cannons",
+      "power": "plasma core",
+      "propulsion": "Nubian engines",
+      "size": "11 meters",
+      "speed": "high sub-light speeds"
+    },
+    "model": "resources.spacecraft",
+    "pk": 10
+  },
+  {
+    "fields": {
+      "edited": "2015-01-04T19:22:00.104Z",
+      "title": "Ebon Hawk",
+      "armaments": "laser turrets, proton torpedo bays",
+      "power": "twin fusion reactors",
+      "propulsion": "hyperdrive and sublight engines",
+      "size": "24 meters",
+      "speed": "faster than light"
+    },
+    "model": "resources.spacecraft",
+    "pk": 11
+  },
+  {
+    "fields": {
+      "edited": "2015-01-05T12:40:29.113Z",
+      "title": "Sith Infiltrator",
+      "armaments": "heavy laser cannons, ion cannons",
+      "power": "ion drive",
+      "propulsion": "Cloaking device and hyperdrive",
+      "size": "26.5 meters",
+      "speed": "light speed"
+    },
+    "model": "resources.spacecraft",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "edited": "2015-01-06T15:55:33.200Z",
+      "title": "Jedi Interceptor",
+      "armaments": "wingtip laser cannons",
+      "power": "nuclear propulsion core",
+      "propulsion": "twin ion engines",
+      "size": "8 meters",
+      "speed": "very high sub-light speed"
+    },
+    "model": "resources.spacecraft",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "edited": "2015-01-07T12:30:50.300Z",
+      "title": "Venator-class Star Destroyer",
+      "armaments": "turbo laser turrets, ion cannons, missile tubes",
+      "power": "fusion reactor",
+      "propulsion": "hyperdrive and multiple sub-light engines",
+      "size": "1,137 meters",
+      "speed": "faster than light"
+    },
+    "model": "resources.spacecraft",
+    "pk": 14
+  },
+  {
+    "fields": {
+      "edited": "2015-01-08T17:48:22.411Z",
+      "title": "Republic Gunship",
+      "armaments": "beam weapons, anti-personnel lasers",
+      "power": "atomic power unit",
+      "propulsion": "repulsorlift jets",
+      "size": "17.4 meters",
+      "speed": "sub-light speed"
+    },
+    "model": "resources.spacecraft",
+    "pk": 15
+  }
+
+]
